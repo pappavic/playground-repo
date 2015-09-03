@@ -3,3 +3,4 @@ Commit to master
 Adding some features
 
 some awesome feature here
+fixing some other stuff here so that awesome feature works properly
