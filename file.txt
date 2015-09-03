@@ -6,3 +6,5 @@ doing hotfix
 
 some awesome feature here
 fixing some other stuff here so that awesome feature works properly
+
+this is a smaller feature, so should be ok for next release
