@@ -1,1 +1,3 @@
 Commit to master
+
+Adding some features
