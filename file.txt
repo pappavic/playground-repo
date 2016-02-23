@@ -4,6 +4,8 @@ Adding some features
 
 doing hotfix
 
+COOL new feature here!
+
 some awesome feature here
 fixing some other stuff here so that awesome feature works properly
 
