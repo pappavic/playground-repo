@@ -11,4 +11,4 @@ fixing some other stuff here so that awesome feature works properly
 
 this is a smaller feature, so should be ok for next release
 
-feature 2 ok finished now after some feedback
+feature 2 ok finished now after some feedback small fix
